@@ -55,7 +55,6 @@ private:
     MovieFinder& movieFinder;
 };
 
-// Client
 int main() {
     TV tv;
     VolumeControl volumeControl;
